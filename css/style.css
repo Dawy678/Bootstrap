@@ -1,0 +1,85 @@
+body {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+}
+.kolor1{
+    background-color: rgb(61, 14, 14);
+}
+.oddziałka-nawigacji {
+    border-right: 5px rgb(211, 137, 137);
+    padding: 5px;
+}
+.oddziałka-nawigacji2 {
+    padding: 5px;
+}
+.a {
+    text-align: center;
+    background-color: rgb(61, 14, 14);
+}
+.a-color {
+    color: burlywood;
+}
+.small-font {
+    font-size: 14px;
+}
+.bg-zdj {
+    width: 100%;
+    height: 250px;
+    background-image: url(../zdj/bg.png);
+}
+.paczka {
+  position: relative;
+  width: 250px;
+  height: 200px;
+  overflow: hidden;
+}
+
+.zdjęcie {
+  display: block;
+  width: 100%;
+  height: 75%;
+  overflow: hidden;
+}
+
+.overlay {
+  position: absolute; 
+  background: rgb(218, 32, 32);
+  width: 100%;
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+  text-align: center;
+  overflow: hidden;
+}
+.b {
+    background-color: rgb(61, 14, 14);
+}
+.c {
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 50px;
+}
+.e {
+    padding-bottom: 15px;
+}
+.nawigacja {
+    padding-left: 250px;
+    padding-right: 250px;
+    text-align: center;
+}
+.f {
+    width: 100%;
+    height: 100%;
+}
+.g {
+    padding-top: 25px;
+}
+.bg-img2 {
+    background-image: url(../zdj/5.webp);
+    width: 100%;
+    height: 50px;
+}
+.h {
+    background-color: rgb(218, 32, 32);
+}
